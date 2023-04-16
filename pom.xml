@@ -3,4 +3,6 @@
   <groupId>Practice.Project</groupId>
   <artifactId>FilpkartActions.FrameWork</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependieces></dependieces>
 </project>
